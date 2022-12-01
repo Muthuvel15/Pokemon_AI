@@ -17,16 +17,15 @@
     <div class="container">
         <br>
         
-        <H3>Welcome to pokémon univers !</H3>
+        <H3>Bienvenue dans le monde de Pokémon!</H3>
     </div>
     <br> <br> 
   <div class="container"> 
-    <form id="upload_form" enctype="multipart/form-data" method="post">
-    <input type="file" name="file1" id="file1" onchange="uploadFile()"><br>
-    <progress id="progressBar" value="0" max="100" style="width:300px;"></progress>
-    <h3 id="status"></h3>
-    <p id="loaded_n_total"></p></div>  
-  
-</form>
+    <form action="/submitform" method="post" enctype="multipart/form-data">
+        <label>Upload image here : </label> <br>
+        <input type="file" name="user_image"> <br> <br>
+        <input type="submit" value="Send">
+    </form>
+
 </body>
 </html>
