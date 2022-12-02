@@ -1,2 +1,7 @@
 IA/data/images
+IA/data/pokemon
+IA/data/pokemon_jpg
+IA/test
+IA/train
+IA/val
 *.csv
