@@ -66,10 +66,7 @@ git push origin feature/nom-de-votre-fonctionnalite
 
 5. Soumettez une pull request avec une description de vos changements.
 
-## Licence
-
-[Insérez les informations sur la licence ici]
 
 ## Crédits
 
-Le projet Pokemon_AI est développé et maintenu par [Votre Nom]. Il utilise [liste des bibliothèques externes ou ressources utilisées].
+Le projet Pokemon_AI est développé et maintenu par Muthuvel SAVOUNDIRAPANDIANE, Damien SALEM .
